@@ -35,7 +35,7 @@ This project is a simple weather application that allows users to retrieve curre
 - This application may not handle all possible error cases from the OpenWeatherMap API, such as rate limiting or network failures. Additional error handling can be implemented to improve reliability.
 
 ## Future Improvements
-- Add support for fetching weather data based on user's geolocation.
+ Add support for fetching weather data based on user's geolocation.
 - Implement caching mechanisms to reduce the number of API requests and improve performance.
 - Enhance the user interface with additional weather information and interactive features.
 
