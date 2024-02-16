@@ -1,4 +1,4 @@
-# Capstone Project: Weather App
+ Capstone Project: Weather App
 
 ## Introduction
 This project is a simple weather application that allows users to retrieve current weather information for a specified city. The application utilizes the OpenWeatherMap API to fetch weather data based on the user's input.
