@@ -43,10 +43,10 @@ This project is a simple weather application that allows users to retrieve curre
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-- [Your Name](https://github.com/MausamGaikwad)
-
-Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions through pull requests or by opening issues on the project's GitHub repository. Thank you for using the Capstone Weather App!
+- [Mausam Gaikwad](https://github.com/MausamGaikwad)
 
 ## Credits
 - Author: Mausam Gaikwad
 - API: [OpenWeatherMap API](https://openweathermap.org/api)
+
+Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions through pull requests or by opening issues on the project's GitHub repository. Thank you for using the Capstone Weather App!
